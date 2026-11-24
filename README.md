@@ -2,8 +2,21 @@
 
 Wallpaper pack for **Space**, a theme for [Zooper Widget](https://en.wikipedia.org/wiki/Zooper_Widget) (Android). The theme's app reads [`Space_wallpaper.json`](Space_wallpaper.json) and downloads the images directly from this repository.
 
-**Contents:** 22 wallpapers (JPG) with thumbnails · `Space_wallpaper.json` (list of images and names) · the *Yellowtail* font used by the theme
-**Status:** archived project (2016), no longer updated
+- **Contents:** 22 wallpapers (JPG) with thumbnails · `Space_wallpaper.json` (list of images and names) · the *Yellowtail* font used by the theme
+- **App:** [Space for Zooper](https://play.google.com/store/apps/details?id=com.devsociety.space) on Google Play
+- **Status:** discontinued (2016), still available for download
+
+## Project status
+
+**Space for Zooper is discontinued** and will not receive further updates, because:
+
+- the project has been abandoned;
+- Zooper Widget, the app this theme is built for, is no longer supported;
+- the original Android Studio source files have been lost.
+
+The app will stay online on Google Play: **[Space for Zooper](https://play.google.com/store/apps/details?id=com.devsociety.space)**. This repository also stays online, so the app can keep downloading its wallpapers.
+
+Other apps by the same developer: [Google Play developer page](https://play.google.com/store/apps/dev?id=8584573853062227897).
 
 ## Preview
 
