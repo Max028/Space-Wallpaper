@@ -17,4 +17,4 @@ The font [Yellowtail](https://fonts.google.com/specimen/Yellowtail) by Astigmati
 
 ## Maintenance note
 
-The wallpaper pack was put together and published by Max028 in 2016. In November 2026 the repository was only reviewed: this README was added with the help of Claude, an AI assistant by Anthropic. No image, font or JSON file was changed.
+The wallpaper pack was put together and published by Max028 in 2016. In November 2026 the repository was only reviewed: this README (and a small `.gitattributes` setting that lets GitHub show the JSON language) was added with the help of Claude, an AI assistant by Anthropic. No image, font or JSON file was changed.
