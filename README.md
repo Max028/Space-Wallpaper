@@ -14,3 +14,7 @@ Wallpaper pack for **Space**, a theme for [Zooper Widget](https://en.wikipedia.o
 **All rights to the images remain with their original authors.** They are used in the Space theme with the authors' permission. This repository exists only to deliver the wallpapers to the theme: it does not grant any license to reuse, modify or redistribute them.
 
 The font [Yellowtail](https://fonts.google.com/specimen/Yellowtail) by Astigmatic is distributed under the Apache License 2.0.
+
+## Maintenance note
+
+The wallpaper pack was put together and published by Max028 in 2016. In November 2026 the repository was only reviewed: this README was added with the help of Claude, an AI assistant by Anthropic. No image, font or JSON file was changed.
